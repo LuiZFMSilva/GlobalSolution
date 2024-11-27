@@ -23,4 +23,5 @@ Implementação do método dispose para limpar controladores e liberar memória.
 
 Execução do Projeto
 1. Clone o repositório na sua máquina;
-2. Execute o projeto pelo terminal.
+2. Execute o projeto pelo terminal usando "flutter run".
+OBS.: O projeto está todo dentro de "lib"
